@@ -1,0 +1,4 @@
+# Node.js / TypeScript
+node_modules/
+dist/
+.idea

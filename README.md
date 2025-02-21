@@ -1,2 +1,2 @@
 # BIPO
-Biblioteca Bipo (Buscador Inteligente de Páginas Online) que busca facilitar quem está começando no webcrawler seja no estudo ou em algum projeto
+Bipo library that aims to help beginners in the webcrawler part, with a simple and easy-to-use API.
